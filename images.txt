@@ -5,3 +5,4 @@ elasticsearch:8.11.3
 minio/minio:RELEASE.2025-06-13T11-33-47Z
 kibana:8.11.3
 elasticsearch:8.11.3
+mysql:8.0.39
